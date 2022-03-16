@@ -1,0 +1,4 @@
+Machine Learning Using Naïve Bayes, K-Nearest neighbor and Decision Tree
+
+Python Code for the classification algorithms of Naïve Bayes, K-Nearest neighbor and Decision Tree.
+Read a file with Buy Computer dataset and classify them using the classification algorithms of Naïve Bayes, K-Nearest neighbor and Decision Tree.
